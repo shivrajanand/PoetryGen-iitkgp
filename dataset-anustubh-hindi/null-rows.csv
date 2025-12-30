@@ -1,0 +1,1937 @@
+Shlok,meaning,prompt,chanda,source
+ सफेनां सस्वनां भूत्वा सागरस्य समुत्थिताम्। प्रशान्तमारुतोद्धूतां जलोर्मिमिव निस्स्वनाम्।।  ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ चतुर्दश सहस्राणि रक्षसां भीमकर्मणाम्।निहतानि जनस्थाने शरैरग्निशिखोपमैः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ पुरुषस्याप्रहृष्टस्य प्रतिषिद्धानुलेपनाम्। सन्तप्तामिव शोकेन गात्रयष्टिमभूषणाम्।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ विपुलां विततां चैव युक्तपाशां तरस्विनाम्। भूमौ बाणैर्विनिष्कृत्तां पतितां ज्यामिवायुधात्।।  ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ एतस्य मृगरत्नस्य परार्ध्ये काञ्चनत्वचि।उपवेक्ष्यति वैदेही मया सह सुमध्यमा।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ शुष्कतोयां महामत्स्यैः कूर्मैश्च बहुभिर्वृताम्। प्रभिन्नतटविस्तीर्णां वापीमिव हृतोत्पलाम्।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ सूदयित्वा तु तं शत्रुं विक्रान्तं दुन्दुभेस्सुतम्।निष्क्रामन्नेव पश्यामि बिलस्य पिहितं मुख।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ तासु चैव प्रसुप्तासु सीता भर्तृहिते रता।।विलप्य करुणं दीना प्रशुशोच सुदुःखिता। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ याते तस्मिन् दशग्रीवे राक्षस्यो विकृताननाः।।सीतां निर्भर्त्सयामासुर्वाक्यैः क्रूरैस्सुदारुणैः। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ तत्र प्रविशतश्चापि कल्पान्तघनसन्निभा।।अट्टहासं विमुञ्चन्ती नारी काप्युत्थिता पुरः। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ साम्प्रतं कालभेदेन या गतिस्तां निबोधत।नवतिं योजनानां तु गमिष्यामि न संशयः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ एष दाशरथी रामः सत्यवान् शीलवान् शुचिः।रक्षसा रौद्ररूपेण ह्रियते सहलक्ष्मणः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ लब्धसंज्ञस्तु षड्रात्राद्विवशो विह्वलन्निव।वीक्षमाणो दिशस्सर्वा नाभिजानामि किञ्चन।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ सहसा युद्धशौण्डेन हयारोहेण वाहिताम्। निहतां प्रतिसैन्येन वडवामिव पातिताम्।।  ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ वक्तव्यश्च महाबाहुरिक्ष्वाकुकुलनन्दनः।पितरं यौवराज्यस्थो राज्यस्थमनुपालय।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ सासुरास्सहगन्धर्वास्सनागनरदेवताः।विदिता स्सर्वलोकास्ते ससागरधराधराः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ अल्पशेषमिदं कार्यं दृष्टेयमसितेक्षणा।त्रीनुपायानतिक्रम्य चतुर्थ: इह विद्यते।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ वीरस्तस्य सखा राज्ञस्सुग्रीवो नाम वानरः।राजा वानरमुख्यानां येन प्रस्थापिता वयम्।। ,   ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ ततो मे बुद्धिरुत्पन्ना किन्नाम गगने मम।ईदृशो विघ्न उत्पन्नो रूपं यत्र न दृश्यते।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ राजा दशरथो नाम द्युतिमान्धर्मवत्सलः।चातुर्वर्ण्यं स्वधर्मेण नित्यमेवाभ्यपालय।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ इदं च धनुरुद्यम्य सज्यं यः कुरुते नरः।तस्य मे दुहिता भार्या भविष्यति न संशयः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ अभिक्रुद्धस्समर्थो हि चापमुद्यम्य राघवः।सदेवासुरगन्धर्वं वशे स्थापयितुं जग।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ पश्य लक्ष्मण पुष्पाणि निष्फलानि भवन्ति मे। पुष्पभारसमृद्धानां वनानां शिशिरात्यये।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ सर्वे वयमपि प्राप्तास्तत्र गन्तुं कृतक्षणाः।स यत्र हरिवीराणां सुग्रीवः पतिरव्ययः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ या मामनुगता मन्दं पित्रा प्रव्राजितं वनम्। सीता सत्पथमास्थाय क्व नु सा वर्तते प्रिया।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ न हि प्रेषयिता तात स्वामी प्रेष्यः कथञ्चन।भवताऽयं जनस्सर्वः प्रेष्यः प्लवगसत्तम।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ कृतंकर्मयशश्श्लाघ्यंप्राप्तंतेशत्रुसूदन ।भ्रातृभिःसहराज्यस्थोदीर्घमायुरवाप्नुहि ।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ भवन्तः प्रत्ययं प्राप्ताः नीतिमार्गविशारदाः।हितेष्वभिरता भर्तुर्निसृष्टास्सर्वकर्मसु।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ सर्वराक्षससङ्घानां राक्षसा ये च पूर्वकाः।अलमेको विनाशाय वीरो वालिसुतः कपिः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ अहमेकोऽपि पर्याप्तस्सराक्षसगणां पुरीम्।तां लङ्कां तरसा हन्तुं रावणं च महाबलम्।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ अकामां कामयानस्य शरीरमुपतप्यते।।इच्छन्तीं कामयानस्य प्रीतिर्भवति शोभना। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ वालिनः पौरुषं यत्तद्यच्च वीर्यं धृतिश्च या।तन्ममैकमनाश्श्रुत्वा विधत्स्व यदनन्तर।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ अयात्रां चैव दृष्ट्वेमां मार्गांश्च भृशदुर्गमान्।प्रणते चैव सुग्रीवे न मया किञ्चिदीरित।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ निमीलयत चक्षूंषि सर्वे वानरपुङ्गवाः।न हि निष्क्रमितुं शक्यमनिमीलितलोचनैः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ कृते च प्रतिकर्तव्यमेष धर्मः सनातनः।सोऽयं त्वत्प्रतिकारार्थी त्वत्तः सम्मानमर्हति।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ शैल पुत्र्या यदुक्तं तन्न प्रजास्यथ पत्निषु ।तस्या वचनमक्लिष्टं सत्यमेतन्न संशय:।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ ते गतिज्ञा गतिं ज्ञात्वा पृथिव्यां सर्ववानराः।आनयन्तु हरीन् सर्वांस्त्वरिता शसनान्मम।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ इक्ष्वाकूणां कुले जातो भविष्यति सुधार्मिक:।राजा दशरथो नाम्ना श्रीमान्सत्यप्रतिश्रव:।।  ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ आजगाम ततो वाली हत्वा तं दानवर्षभम्।ततोऽहमददां राज्यं गौरवाद्भययन्त्रितः।। ,   ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ एवमुक्ता मया सा तु सुरसा कामरूपिण।।अब्रवीन्नातिवर्तेत कश्चिदेष वरो मम। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ अवश्यं क्रियमाणस्य दृश्यते कर्मणः फलम्।अलं निर्वेदमागम्य न हि नो मीलनं क्षमम्।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ औपवाह्यः कुबेरस्य सार्वभौम इति स्मृतः।गजः पर्येति तं देशं सदा सह करेणुभिः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ तावहं पुरुषव्याघ्रौ सुग्रीववचनात्प्रभू।रूपलक्षणसम्पन्नौ कृताञ्जलिरुपस्थितः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ अङ्गदोऽकथयत्तस्य जनस्थाने महद्वधम्।रक्षसा भीमरूपेण त्वामुद्दिश्य यथातथम्।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ स मन्मथशराविष्टो ब्रह्मघोषमुदीरयन्।।अब्रवीत्प्रश्रितं वाक्यं रहिते राक्षसाधिपः। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ हेमपुष्करसञ्छन्नं तस्मिन् वैखानसं सरः।तरुणादित्यसङ्काशैर्हंसैर्विचरितं शुभैः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ उक्तोऽहं पुनरेवेदं निश्चित्य मनसा तया।हनुमन्मम वृत्तान्तं वक्तुमर्हसि राघवे।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ अस्तं दिनकरे याते रक्षसां निलयं पुरम्।।प्रविष्टोऽहमविज्ञातो रक्षोभिर्भीमविक्रमैः। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ विधूमामिव हेमाभामध्वराग्ने स्समुत्थिताम्। हविरभ्युक्षितां पश्चाच्छिखां विप्रलयं गताम्।।  ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ सहसा चलितां स्थानान्महीं पुण्यक्षयाद्गताम्।संवृतद्युतिविस्तारां तारामिव दिवश्च्युताम्।।  ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ अथवा मैथिलीं दृष्ट्वा रामं चाक्लिष्टकारिणम्।आगमिष्यामि ते वक्त्रं सत्यं प्रतिशृणोमि ते।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ मम ह्यसितकेशान्ते त्रैलोक्यप्रवराः स्त्रियः।।तास्त्वां परिचरिष्यन्ति श्रियमप्सरसो यथा। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ तथा सर्वाणि भूतानि तिर्यग्योनिगतान्यपि।प्रियं कुर्वन्ति रामस्य त्यक्त्वा प्राणान्यथा वयम्।। ,   ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ सर्वं चैवाङ्गदे दोषं श्रावयिष्यामि पार्थिवे।अमर्षी वचनं श्रुत्वा घातयिष्यति वानरान्।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ यान्ति शूरा गतिं यां च सङ्ग्रामेष्वनिवर्तिनः।हतास्त्वभिमुखाः पुत्र गतिं तां परमां व्रज।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ उद्विग्नश्शङ्कितश्चापि विचरामि महावने।अनुरक्तैः सहामात्यैर्हनुमत्प्रमुखैर्वर।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ कामं तपःप्रभावेन शक्ता हन्तुं निशाचरान्।चिरार्जितं तु नेच्छामस्तपः खण्डयितुं वयम्।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ तमतिक्रम्य लक्ष्मीवान्समुद्रे शतयोजने।।गिरिः पुष्पितको नाम सिद्धचारणसेवितः। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ अङ्गदो नाम लक्ष्मीवान्वालिसूनुर्महाबलः।प्रस्थितः कपिशार्दूलस्त्रिभागबलसंवृतः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ निगृह्य तपसा मृत्युं लोकानां हितकाम्यया।।यस्य भ्रात्रा कृतेयं दिक्छरण्या पुण्यकर्मणा। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ सर्वे परिगताश्शैलास्समुद्राश्च वनानि च।पृथिव्यां वानरास्सर्वे शासनादुपयान्ति ते।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ कैलासशिखरावासीयक्षैर्बहुभिरावृतः ।सुमहत्कदनंकृत्वावश्यस्तेधनदःकृतः ।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ अद्य दीर्घस्य कालस्य भविष्याम्यहमाशिता।इदं हि मे महत्सत्त्वं चिरस्य वशमागतम्।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ सर्वथा क्रियतां यत्न स्सीतामधिगमिष्यथ।।पक्षलाभो ममायं वस्सिद्धिप्रत्ययकारकः। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ उग्रौजसो महावीर्या बलवन्तश्च राक्षसाः।वञ्चनीया मया सर्वे जानकीं परिमार्गता।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,train
+ दर्शने राक्षसेन्द्रस्य दुर्लभे तदिदं मया।।वनं राक्षसराजस्य दर्शनार्थे विनाशितम्। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,test
+ अमित्राणां वधे युक्तो मित्राणां सङ्ग्रहे रतः।।त्रिवर्गफलभोक्ता तु राजा धर्मेण युज्यते। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,test
+ ततोऽहं वालिना तेन साऽनुबद्धः प्रधावितः।नदीश्च विविधाः पश्यन्वनानि नगराणि च।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,test
+ विधमिष्यामि जीमूतान्कम्पयिष्यामि पर्वतान्।।सागरं शोषयिष्यामि प्लवमानस्समाहितः। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,test
+ काममेषामिदं कार्यं विदितं मम तत्त्वतः।तथापि तु यथातत्त्वमाज्ञापयितुमर्हसि।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,test
+ अथ दीर्घस्य कालस्य बिलात्तस्माद्विनिस्सृतम्।सफेनं रुधिरं रक्तमहं दृष्ट्वा सुदुःखितः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,test
+ तमतिक्रम्य शैलेन्द्रं काञ्चनान्तरनिर्दरः।पर्वत स्सर्वसौवर्णो धाराप्रस्रवणायुतः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,test
+ मत्सन्देशयुता वाचस्त्वत्तश्श्रुत्वा च राघवः।पराक्रमविधिं वीरो विधिवत्संविधास्यति।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,test
+ गर्हितं तु कृतं कर्म येन स्म पशिताशिना।प्रतीकार्यं च मे तस्य वैरं भ्रातृकृतं भवेत्।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,test
+ भविष्यति हि मे रूपं प्लवमानस्य सागरे।विष्णोर्विक्रममाणस्य पुरा त्रीन्विक्रमानिव।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,test
+ पुत्रान्मृतान्समीक्ष्याथ न भविष्यन्ति मातरः।।कौसल्या च सुमित्रा च कैकेयी च न संशयः। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,test
+ यथोद्दिष्टानि सर्वाणि सुग्रीवेण महात्मना।विचिन्वन्तु वनं सर्वे गिरिदुर्गाणि सर्वशः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,test
+ मां च दृष्ट्वा वने तस्मिन् समागम्य ततस्ततः।ता स्समभ्यागताः क्षिप्रं रावणायाचचक्षिरे।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,test
+ मित्रं ह्यर्थगुणश्रेष्ठं सत्यधर्मपरायणम्।तद्द्वयं तु परित्यक्तं न तु धर्मे व्यवस्थितम्।। ,   ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,val
+ विनष्टा जानकी व्यक्तं न ह्यदग्धः प्रदृश्यते।।लङ्कायां कश्चिदुद्धेशः सर्वा भस्मीकृता पुरी। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,val
+ अप्सराप्सरसां श्रेष्ठा विख्याता पुञ्जिकस्थला।अञ्जनेति परिख्याता पत्नी केसरिणो हरेः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,val
+ अङ्गदप्रमुखास्सर्वे वेलोपान्तमुपस्थिताः।चिन्तां जग्मुः पुनर्भीतास्त्वद्दर्शनसमुत्सुकाः।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,val
+ शाल्मल्यः किंशुकाश्चैव रक्ताः कुरवकास्तथा।।त्रिनिशा नक्तमालाश्च चन्दनास्स्यन्दनास्तथा।  ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,val
+ पूर्वमर्थं प्रतिश्रुत्य प्रतिज्ञां हातुमिच्छसि।राघवाणामयुक्तोऽयं कुलस्यास्य विपर्यय:।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,val
+ अफलस्तु कृतो मेष: परां तुष्टिं प्रदास्यति।भवतां हर्षणार्थाय ये च दास्यन्ति मानवा:।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,val
+ ततस्तौ प्रीतिसम्पन्नौ हरीश्वरनरेश्वरौ।परस्परकृताश्वासौ कथया पूर्ववृत्तया।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,val
+ महान्विघ्न: प्रवृत्तोऽयं दक्षिणामास्थितो दिशम्।दिशमन्यां प्रपत्स्यामस्तत्र तप्स्यामहे तप:।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,val
+ शरभङ्गेदिवंप्राप्तेरामस्सत्यपराक्रमः ।अभिवाद्यमुनीन्सर्वान्जनस्थानमुपागमत् ।। ,  ,"
+The goal is to generate Sanskrit verse that follows the anustubh meter rules for the given input translation. 
+RULES:
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+",anuṣṭubh,val

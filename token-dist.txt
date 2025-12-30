@@ -1,0 +1,39 @@
+=======================
+
+
+Token Length Statistics
+Data-File: C:/Users/shivr/OneDrive/Desktop/PoetryGen/dataset-anustubh-hindi/train.csv
+count: 6382.0
+mean: 482.9691319335631
+std: 35.1330221592381
+min: 382.0
+25%: 459.0
+50%: 476.0
+75%: 499.0
+max: 609.0
+=======================
+
+
+Token Length Statistics
+Data-File: C:/Users/shivr/OneDrive/Desktop/PoetryGen/dataset-anustubh-hindi/test.csv
+count: 785.0
+mean: 482.2828025477707
+std: 35.3359102523226
+min: 400.0
+25%: 459.0
+50%: 475.0
+75%: 498.0
+max: 607.0
+=======================
+
+
+Token Length Statistics
+Data-File: C:/Users/shivr/OneDrive/Desktop/PoetryGen/dataset-anustubh-hindi/val.csv
+count: 680.0
+mean: 480.73823529411766
+std: 33.87844088535239
+min: 393.0
+25%: 458.0
+50%: 473.0
+75%: 497.0
+max: 603.0
