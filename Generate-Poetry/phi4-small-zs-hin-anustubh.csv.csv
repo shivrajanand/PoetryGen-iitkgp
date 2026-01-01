@@ -1,0 +1,45 @@
+Shlok,meaning,prompt,chanda,model-out
+जयद्रथोऽपि मन्दात्मा स्वमेव भवनं ययौ पाण्डवाश्च वने तस्मिन् न्यवसन् काम्यके तथा,तत्पश्चात् मन्दबुद्धि जयद्रथ भी अपने पर गया और पाण्डवगण उस काम्यकवनमै उसी प्रकार नियन करने लगे,"The goal is to generate Sanskrit verse that follows the anuṣṭubh meter rules for the given input translation. RULES: 
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+",anuṣṭubh,"ततः प्रविष्टो जयद्रथो मन्दबुद्धिर्महारथः।
+पाण्डवाः काम्यकवने तथैव नियता ययुः॥
+
+अनुवाद:
+तत्पश्चात् मन्दबुद्धि जयद्रथ भी अपने पर गया और पाण्डवगण उस काम्यकवनमै उसी प्रकार नियन करने लगे
+
+अनुष्टुब् छन्द के नियमों का पालन करते हुए इस अनुवाद के लिए संस्कृत छंद बनाएं।"
+दानं यशाः सतां पूजा वेदधारणमार्जवम् एष धर्मः परो राजन् बलवान् प्रेत्य चेह च,"महाराज ! इहलोक और परलोकमें भी दान यश संतोंका आदर, वेदोंका स्वाध्याय और सरलता आदि हो उत्तम एवं प्रवल धर्म माने गये हैं","The goal is to generate Sanskrit verse that follows the anuṣṭubh meter rules for the given input translation. RULES: 
+Verse Rules:
+The verse contains 32 syllables/akshara and 4 padas in total.
+The verse is divided in 2 lines, each containing 16 syllables.
+Each line is divided into 2 padas (quartets),each containing exactly 8 syllables.
+The fifth syllable of every pada must be LAGHU or short.
+The sixth syllable of every pada must be GURU or long.
+The seventh syllable of the second and the fourth pada must be HRASVA
+The seventh syllable of the first and third paada must be DEERGHA
+Syllable Rules:
+LAGHU vowels: अ, इ, उ, ऋ, ऌ
+GURU vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+HRASVA vowels: अ, इ, उ, ऋ, ऌ
+DEERGHA vowels: आ, ई, ऊ, ॠ, ॡ, ए, ऐ, ओ, औ
+Syllable is marked laghu, guru and hrasva, deergha based on the vowel it contains.
+Syllable containing anusvāra(""ं"") or visarga(""ः"") is always marked as guru.
+Syllable that is followed by a conjunct consonant (saṁyuktākṣara)
+is always marked guru.
+",anuṣṭubh,महाराज ! इहलोके परलोके च दानं यशः सन्तानां वेदस्वाध्यायः सरलता च धर्मा उत्तमा बलवन्तः ।

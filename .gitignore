@@ -1,1 +1,4 @@
 MODEL-OUTPUT/
+*.out 
+*.sbatch
+*cache*
