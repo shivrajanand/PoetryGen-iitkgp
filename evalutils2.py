@@ -166,145 +166,72 @@ def save_outputs(dataset: Dataset, dataset_name: str, outputs: List[str], metric
 
 ############## CUSTOM FUNCTION ADDED TO ACCEPT CSV #############################
 
-def evaluate_csv(
-    csv_path: str,
-    model_out_col: str = "model-out",
-    meaning_col: str = "meaning",
-    embed_batch_size: int = 64,
-    num_proc: int | None = None,
-) -> pd.DataFrame:
-    """
-    Optimized CSV evaluation using:
-    - HuggingFace Dataset
-    - CPU multiprocessing for meter identification
-    - Batched GPU semantic similarity
-    """
+incsv = sys.argv[1]
+df = pd.read_csv(incsv)
+print(f"Loaded {len(df)} samples")
 
-    import os
-    from datasets import Dataset
+# Check if required columns exist
+assert 'meaning' in df.columns, "dataframe must have 'meaning' column which are hindi meanings of sanskrit verses"
+assert 'model-out' in df.columns, "dataframe must have 'model-out' column which is the sanskrit verses generate by the model"
 
-    # ---- Load CSV into Dataset ----
-    df = pd.read_csv(csv_path)
+# Extract Sanskrit outputs
+meaning = df['meaning'].tolist()
+model_out = df['model-out'].tolist()
 
-    if model_out_col not in df.columns or meaning_col not in df.columns:
-        raise ValueError(
-            f"CSV must contain columns '{model_out_col}' and '{meaning_col}'"
-        )
+# Evaluate the Sanskrit outputs
+metrics = evaluate_generated(meaning, model_out, dataset_name='translations_output_imp')
 
-    dataset = Dataset.from_pandas(df, preserve_index=False)
-    total_rows = len(dataset)
-    print(f"Total rows: {total_rows}", flush=True)
+# Calculate anushtubh percentages
+full_anushtup_percent, partial_anushtup_percent = calculate_anushtup_percentages(
+    metrics.histogram_labels, 
+    metrics.histogram_lengths
+)
 
-    # ---- Meter identification (CPU-parallel) ----
-    def meter_map_fn(example):
-        mi = MeterIdentifier()
-        output = str(example[model_out_col])
+# Calculate none percentage
+none_percent = 100 - full_anushtup_percent - partial_anushtup_percent
 
-        i = 0
-        while i < len(output):
-            try:
-                meter = mi.identify_meter(
-                    output[i:], from_scheme="DEV", resplit_option="resplit_max"
-                )
-                break
-            except Exception:
-                i += 1
-        else:
-            meter = mi.identify_meter("")
+# Calculate semantic similarity
+semantic_sim = cosine_sim_to_percentage(metrics.semantic_similarities)
 
-        sw_len = len(meter.syllable_weights.replace("\n", ""))
+# Print results
+print(f"\n{'='*60}")
+print(f"EVALUATION RESULTS")
+print(f"{'='*60}")
+print(f"Full Anushtubh:    {full_anushtup_percent:.2f}%")
+print(f"Partial Anushtubh: {partial_anushtup_percent:.2f}%")
+print(f"None:              {none_percent:.2f}%")
+print(f"\nSemantic Similarity: {semantic_sim:.2f}%")
+print(f"{'='*60}")
 
-        if valid_label_regex.match(meter.meter_label):
-            return {
-                "full_anustubh_percent": 100.0,
-                "half_anustubh_percent": 0.0,
-            }
-        elif sw_len == 32:
-            return {
-                "full_anustubh_percent": 0.0,
-                "half_anustubh_percent": 100.0,
-            }
-        else:
-            return {
-                "full_anustubh_percent": 0.0,
-                "half_anustubh_percent": 0.0,
-            }
+# Print detailed histograms
+print(f"\nHistogram of Syllable Lengths:")
+for length in sorted(metrics.histogram_lengths.keys()):
+    count = metrics.histogram_lengths[length]
+    percentage = count * 100 / len(model_out)
+    print(f"  Length {length:2d}: {count:4d} samples ({percentage:5.2f}%)")
 
-    print("Starting meter identification...", flush=True)
-    t0 = time.time()
+print(f"\nHistogram of Meter Labels (top 10):")
+sorted_labels = sorted(metrics.histogram_labels.items(), key=lambda x: x[1], reverse=True)
+for i, (label, count) in enumerate(sorted_labels[:10]):
+    percentage = count * 100 / len(model_out)
+    print(f"  {i+1:2d}. {label[:50]:50s}: {count:4d} ({percentage:5.2f}%)")
 
-    dataset = dataset.map(
-        meter_map_fn,
-        num_proc=num_proc or os.cpu_count(),
-        desc="Meter identification"
-    )
+# Save detailed results
+anushtup_type = []
+for x in metrics.meter_verses:
+    a_t = "None"
+    if valid_label_regex.match(x.meter_label) is not None:
+        a_t = "Full"
+    elif len(x.syllable_weights.replace('\n','')) == 32:
+        a_t = "Partial"
+    anushtup_type.append(a_t)
 
-    print(
-        f"Meter identification completed in "
-        f"{str(timedelta(seconds=int(time.time() - t0)))}",
-        flush=True
-    )
+results_df = df.copy()
+results_df['anushtup_type'] = anushtup_type
+results_df['semantic_sim_%'] = cosine_sim_to_percentage(metrics.semantic_similarities, reduce=False).cpu()
+results_df['meter_label'] = [x.meter_label for x in metrics.meter_verses]
+results_df['syllable_count'] = [len(x.syllable_weights.replace('\n','')) for x in metrics.meter_verses]
 
-    # ---- Semantic similarity (batched, single process) ----
-    meanings = dataset[meaning_col]
-    outputs = dataset[model_out_col]
-
-    device = "cuda" if torch.cuda.is_available() else "cpu"
-    semantic_model = SentenceTransformer(
-        "sanganaka/bge-m3-sanskritFT",
-        device=device
-    )
-    print(f"Semantic model loaded on {device}", flush=True)
-
-    t1 = time.time()
-    with torch.inference_mode():
-        in_embs = semantic_model.encode(
-            meanings,
-            batch_size=embed_batch_size,
-            convert_to_tensor=True,
-            device=device
-        )
-        out_embs = semantic_model.encode(
-            outputs,
-            batch_size=embed_batch_size,
-            convert_to_tensor=True,
-            device=device
-        )
-
-        sims = semantic_model.similarity_pairwise(in_embs, out_embs)
-        semantic_sims = (
-            cosine_sim_to_percentage(sims, reduce=False)
-            .cpu()
-            .tolist()
-        )
-
-    dataset = dataset.add_column(
-        "semantic_similarity_percent",
-        semantic_sims
-    )
-
-    print(
-        f"Semantic similarity completed in "
-        f"{str(timedelta(seconds=int(time.time() - t1)))}",
-        flush=True
-    )
-
-    # ---- Finalize ----
-    total_time = time.time() - t0
-    print(f"Completed in {str(timedelta(seconds=int(total_time)))}", flush=True)
-
-    return dataset.to_pandas()
-
-
-
-
-if __name__ == '__main__':
-    if len(sys.argv) != 2:
-        raise ValueError("Usage: python run_eval_metrics.py <input_csv_path>")
-
-    csv_path = sys.argv[1]
-    out_csv = csv_path.replace(".csv", "_metrics.csv")
-    df = evaluate_csv(csv_path)
-    df.to_csv(out_csv, index=False)
-    
-    print(f"Saved metrics to {out_csv}")
+output_filename = incsv.replace("Generate-Poetry/", "/Generate-Poetry/Metrics/")
+results_df.to_csv(output_filename, index=False)
+print(f"\nDetailed results saved to: {output_filename}")
